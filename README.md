@@ -20,7 +20,7 @@ A Django application with an API that receives a set of points, finds the points
 ## Setup
 
 - Clone the project: `git@github.com:rOluochKe/closest-points-api.git`
-- Change directory into : `cd /closestPointApi`
+- Change directory into : `cd /closest-points-api`
 - Create your environment and install dependencies: `pip install -r requirements.txt`
 - Run migrations: `python manage.py makemigrations && python manage.py migrate`
 - Create super user: `python manage.py createsuperuser`
